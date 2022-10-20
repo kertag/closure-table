@@ -51,7 +51,6 @@ $member->getDescendants()->orderBy('member_closure.distance','desc')->get()->toA
 // 把10移动到5
 Member::find(10)->move(Member::find(5));
 ```
-```
 # 设置为顶级
 ```php
 Member::find(10)->setRoot();
