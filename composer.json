@@ -1,0 +1,17 @@
+{
+    "name": "kertag/closure-table",
+    "autoload": {
+        "psr-4": {
+            "Kertag\\ClosureTable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "KerTag",
+            "email": "66644934@qq.com"
+        }
+    ],
+	"license": "MIT",
+    "version": "1.0",
+    "require": {}
+}
